@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temeller", "Temeller\Temeller.csproj", "{7B22FF0E-B777-40A7-9AC8-FDDD0E5DFE10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temel", "Temel\Temel.csproj", "{C9363088-4655-4140-9C8D-B757892508F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B22FF0E-B777-40A7-9AC8-FDDD0E5DFE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B22FF0E-B777-40A7-9AC8-FDDD0E5DFE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B22FF0E-B777-40A7-9AC8-FDDD0E5DFE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B22FF0E-B777-40A7-9AC8-FDDD0E5DFE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9363088-4655-4140-9C8D-B757892508F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9363088-4655-4140-9C8D-B757892508F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9363088-4655-4140-9C8D-B757892508F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9363088-4655-4140-9C8D-B757892508F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
